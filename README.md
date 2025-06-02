@@ -1,16 +1,34 @@
-## Hi there 👋
+* **Información Personal 🙋🏻:**
 
-<!--
-**sobas2785/sobas2785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Profesión 👷🏻: Alumno de 6xto año
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* Secundaria 📖: Técnica Nº1 Monte Grande
+
+
+* Ubicación 🗺️: Buenos Aires, Esteban Echeverría
+
+
+* Email 📧: sebasarielopez@gmail.com
+
+* Materias 📚: Diseño Web Dinámico - Estático, Programación III, Procedimientos Industriales 
+
+* **Habilidades Técnicas 🧑🏻‍💻:**
+
+
+Lenguajes de Programación (Frontend ) 🖥️: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+Lenguajes de Programación ( Backend ) ⌨️:
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,java)](https://skillicons.dev)
+
+Frameworks 💻: 
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+Plataformas de Desarrollo IDE:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
