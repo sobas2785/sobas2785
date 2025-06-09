@@ -12,7 +12,9 @@
 
 * Email 📧: sebasarielopez@gmail.com
 
+
 * Materias 📚: Diseño Web Dinámico - Estático, Programación III, Procedimientos Industriales 
+
 
 * **Habilidades Técnicas 🧑🏻‍💻:**
 
@@ -31,4 +33,4 @@ Frameworks 💻:
 
 Plataformas de Desarrollo IDE:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,visualstudio)](https://skillicons.dev)
