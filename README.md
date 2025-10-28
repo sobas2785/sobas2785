@@ -1,7 +1,7 @@
 * **Información Personal 🙋🏻:**
 
 
-* Profesión 👷🏻: Alumno de 6xto año
+* Profesión 👷🏻: Alumno Secundario
 
 
 * Secundaria 📖: Técnica Nº1 Monte Grande
