@@ -22,7 +22,7 @@ Lenguajes de Programación (Frontend ) 🖥️:
 
 Lenguajes de Programación ( Backend ) ⌨️:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,java,c#,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,java,CS,React)](https://skillicons.dev)
 
 Frameworks 💻: 
 
